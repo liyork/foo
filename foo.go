@@ -1,5 +1,6 @@
 package foo
 
+
 import "fmt"
 
 func Greet(name string) string {
